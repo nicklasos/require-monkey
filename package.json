@@ -1,0 +1,20 @@
+{
+  "name": "require-monkey",
+  "version": "1.0.1",
+  "description": "Monkey patching for require",
+  "main": "index.js",
+  "author": "Nicklasos",
+  "keywords": [
+    "require",
+    "mock"
+  ],
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicklasos/require-monkey.git"
+  },
+  "license": "MIT"
+}
